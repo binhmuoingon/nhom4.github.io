@@ -1,0 +1,275 @@
+@media (max-width: 767px) {
+	.bbb{
+		width: 60px;
+		height: 60px;
+		margin-top: 5px;
+		float: left;
+	}
+	.bbb img{
+		height: 90%;
+		width: 90%;
+	}
+	.aaa{
+		width: 100%;
+		height: 70px;
+	}
+	.aaa h1{		
+	color: #52B818;
+	text-align: left;
+	font-size: 40px;
+	}
+	.nnu{
+		width: 100%;
+		height: 120px;
+	}
+	.nav{
+		display: block;
+		margin-left: 8px;
+	}
+	ul li{
+    	list-style: none;
+    }
+    ul.ccc li{
+	    float: left;
+    }
+    ul.ccc li a{
+    	padding: 5px 20px;
+    	text-decoration: none;	
+    }
+    ul.ccc a{
+	    font-size: 10px;
+	    color:#E4E4E4;
+    }
+    ul.ccc li input[type=text] {
+       float: left;
+       padding: 6px;
+       margin-top: 8px;
+       margin-right: 5px;
+       border: none;
+       font-size: 5px;
+}
+	#acv{
+	width: 325px;
+	height: 1700px;
+	margin-top: 10%;
+	margin-left: 10%;
+}
+	#mlj{
+		width: 100%;
+		height: 100px;
+		background-color: aliceblue;
+	}
+	#ddd{
+		width: 100%;
+		height: 750px;
+	}
+	#ddd img{
+		width: 100%;
+		height: 300px;
+	}
+	#ddd p{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	#knm{
+		width: 100%;
+	    height: 700px;
+	    background-color: antiquewhite;
+	    opacity: 0,5;
+		margin-top: 770px;
+	}
+	#ppp{
+		display: none;
+	}
+	#ip{
+		width: 80%px;
+		margin-left: 10%;
+		margin-right: 10%;
+		height: 300px;
+		background-color: aqua;
+		display: inline;
+	}
+	.chan{
+		width: 100%;
+		height: 220px;
+		background-color: rgba(0, 0, 0, 0.7);
+		}
+	.abc{
+		width: 30%;
+		float: right;
+		height: 210px;
+		background-color: rgba(0,0,0,0.00);
+	}
+	.abc a{
+		color: aliceblue;
+	}
+	.bnb{
+		width: 70%;
+		height: 180px;
+		float: left;
+		background-color: rgba(0,0,0,0.00);
+	}
+	#ggg{
+		width: 80%;
+		height: 1300px;
+		padding-left: 5px;
+		margin-top: 120px;
+	}
+	#ggg p{
+		text-align: center;
+	}
+	.bbx #ytc{
+		width: 50%;
+		height: 90px;
+		float: left;
+	}
+	.bbx #yta{
+		width: 50%;
+		height: 90px;
+		float: left;
+	}
+	.bbx #ytb{
+		width: 50%;
+		height: 90px;
+		float: left;
+	}
+	.bbx #ytd{
+		width: 50%;
+		height: 90px;
+		float: left;
+	}
+	.rgb #rgba{
+		width: 45%;
+		height: 90px;
+		float: left;
+	}
+	.rgb #rgbb{
+		width: 45%;
+		height: 90px;
+		float: left;
+	}
+	#iio{
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		height: 2000px;
+		margin-top: 100px;
+	}
+	#iio img{
+		width: 100%;
+		padding-left: 5px;
+		padding-right: 5px;
+		height: 200px;
+	}
+	#iio h2{
+		float: none;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	#ilo{
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 100px;
+		height: 1900px;
+	}
+	#mou {
+		width: 90%;
+		padding-left: 5%;
+		padding-right: 5%;
+		margin-left: 5%;
+		text-align: center;
+	}
+	#bgas{
+	    width: 80%;
+	    height: 800px;
+	    margin-top: 150px;
+	    margin-left: 10%;
+	    background-color: rgba(255, 255, 255, 0.8);
+    }
+	#edo{
+     	width: 90%;
+    	height: 300px;
+	    margin-left: 5%;
+		margin-right: 5%;
+        }
+    #edo img{
+    	width: 100%;
+	    height: 100%;
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-bottom: 0px;
+		padding-top: 5%;
+    }
+	#cbae{
+    	width: 100%;
+    	height: 500px;
+    	float: none;
+    }
+    #hhe{
+	    width: 30%;
+    	height: 40px;
+    	background-color: rgba(0, 0, 0, 0.2);
+    	float: left;
+		font-size: 25px;
+    }
+	#nnhh{
+    	width: 40%;
+    	height: 100%;
+    	background-color: rgba(0, 0, 0, 0.2);
+    	float: left;
+    	font-size: 25px;
+		text-align: center;
+    }
+	#aecp{
+    	width: 60%;
+    	height: 60px;
+    	background-color: #E64C4F;
+    	
+    	text-align: center;
+    	font-size: 35px; 
+    	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif'
+    }
+	#nin{
+    	margin-top: 120px;
+    	width: 100%;
+    	height: 1600px;
+		
+        }
+	#bbh{
+    	background-color: antiquewhite;
+    	opacity: 0.7;
+    	float:left; 
+    	width: 25%;
+    	height: 250px;		
+        }
+	ul#iok a{
+	    font-size: 20px;
+    	color: #000000;
+        }
+    ul#iok p{
+    	font-size: 22px;
+    	color: #000000;
+    }
+	#mki{
+    	width: 75%;
+    	height: 100%;
+    	float: right;
+    }
+    .xxkl{
+    	background-color:#D6DEAE;
+    	width: 50%;
+    	height: 500px;
+    	padding: 10px;
+    	text-align: center;
+    	float: left;
+}
+    .xxkl img{
+        width: 100%;
+    	height: 30%
+    }
+	.xxkl p{
+		font-size: 20px;
+		text-align: center;
+	}
+}
